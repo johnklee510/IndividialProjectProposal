@@ -6,7 +6,7 @@ An automated team assigning bot for Discord
 
 Discord has quickly become an application that people use to communicate with others whether it be with their friends, specific communinity and school. Being a CS major, most classes require group/team work to get assignments done. The project I would like to focus on is a Discord bot that can be called via a typed command (ex: !maketeam). This bot will get members of a Discord Server and automatically assign members randomly to a team. The team sizes will also be able to be specified with the corresponding number following the command while being able to control how big the teams can be. After teams are made, the bot should then be able to assign each team a designated text or voice channel. This bot will be able to help students in a class or friends playing a team based game effortlessly and seamlessly create random groups instantly complely removing wasted time and possible confusion of having team captains pick their teams and manually getting everyone in their own group channels. 
 
-
+![](JohnLee_DiscordTeamBot.png)
 
 ## Relevence
 
